@@ -4,13 +4,14 @@
   box-sizing: border-box;
 }
 body {
-  font-family: Arial, Helvetica, sans-serif; color: aquamarine;
+  font-family: Arial, Helvetica, sans-serif;
   line-height: 1.6;
   background-color: #242424;
   padding: 20px;
 }
 .descricao {
   text-align: center;
+  color: white;
   margin-bottom: 2em;
 }
 .secao {
